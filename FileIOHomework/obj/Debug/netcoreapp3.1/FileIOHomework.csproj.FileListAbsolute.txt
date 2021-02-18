@@ -1,0 +1,13 @@
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\bin\Debug\netcoreapp3.1\FileIOHomework.exe
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\bin\Debug\netcoreapp3.1\FileIOHomework.deps.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\bin\Debug\netcoreapp3.1\FileIOHomework.runtimeconfig.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\bin\Debug\netcoreapp3.1\FileIOHomework.runtimeconfig.dev.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\bin\Debug\netcoreapp3.1\FileIOHomework.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\bin\Debug\netcoreapp3.1\FileIOHomework.pdb
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\obj\Debug\netcoreapp3.1\FileIOHomework.csprojAssemblyReference.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\obj\Debug\netcoreapp3.1\FileIOHomework.csproj.CoreCompileInputs.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\obj\Debug\netcoreapp3.1\FileIOHomework.AssemblyInfoInputs.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\obj\Debug\netcoreapp3.1\FileIOHomework.AssemblyInfo.cs
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\obj\Debug\netcoreapp3.1\FileIOHomework.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\obj\Debug\netcoreapp3.1\FileIOHomework.pdb
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\FileIOHomework\FileIOHomework\obj\Debug\netcoreapp3.1\FileIOHomework.genruntimeconfig.cache
